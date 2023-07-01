@@ -3,8 +3,9 @@ layout: default
 title: home
 nav_order: 1
 --- 
-# sleepy's site
-hi, i'm sleepy.
-[instagram]()
+# Sleepy's site.
+Hello! I'm Sleepy, an artist who also enjoys writing, reading and watching anime."
+You can reach me on these platforms:
+[Instagram]()
 
-site managed by [remilia](remalucard.github.io)
+Site managed by [Remilia.](https://remalucard.github.io)
